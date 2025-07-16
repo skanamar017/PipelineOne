@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Alice",
+        "hours_worked": 40.0,
+        "hourly_rate": 25.0,
+        "gross_pay": 1000.0
+    },
+    {
+        "name": "Bob",
+        "hours_worked": 35.0,
+        "hourly_rate": 20.0,
+        "gross_pay": 700.0
+    },
+    {
+        "name": "Charlie",
+        "hours_worked": 30.0,
+        "hourly_rate": 30.0,
+        "gross_pay": 900.0
+    }
+]
