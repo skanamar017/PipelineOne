@@ -3,24 +3,28 @@
         "name": "Alice",
         "hours_worked": 40.0,
         "hourly_rate": 25.0,
-        "gross_pay": 1000.0
+        "bonus": 100.0,
+        "gross_pay": 1100.0
     },
     {
         "name": "Bob",
         "hours_worked": 35.0,
         "hourly_rate": 20.0,
-        "gross_pay": 700.0
+        "bonus": 60.0,
+        "gross_pay": 760.0
     },
     {
         "name": "Charlie",
         "hours_worked": 30.0,
         "hourly_rate": 30.0,
-        "gross_pay": 900.0
+        "bonus": 50.0,
+        "gross_pay": 950.0
     },
     {
         "name": "Daniel",
         "hours_worked": 35.0,
         "hourly_rate": 30.0,
-        "gross_pay": 1050.0
+        "bonus": 50.0,
+        "gross_pay": 1100.0
     }
 ]

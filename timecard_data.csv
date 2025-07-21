@@ -1,5 +1,5 @@
-name,hours_worked,hourly_rate
-Alice,40,25
-Bob,35,20
-Charlie,30,30
-Daniel,35,30 
+name,hours_worked,hourly_rate,bonus
+Alice,40,25,100
+Bob,35,20,60
+Charlie,30,30,50
+Daniel,35,30,50

@@ -13,11 +13,13 @@ with open(csv_file, mode='r') as file:
         name = row['name']
         hours_worked = float(row['hours_worked'])
         hourly_rate = float(row['hourly_rate'])
-        gross_pay = hours_worked * hourly_rate
+        bonus = float(row['bonus'])
+        gross_pay = hours_worked * hourly_rate + bonus
         timecard_data.append({
             'name': name,
             'hours_worked': hours_worked,
             'hourly_rate': hourly_rate,
+            'bonus': bonus,
             'gross_pay': gross_pay
         })
 
