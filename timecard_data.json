@@ -16,5 +16,11 @@
         "hours_worked": 30.0,
         "hourly_rate": 30.0,
         "gross_pay": 900.0
+    },
+    {
+        "name": "Daniel",
+        "hours_worked": 35.0,
+        "hourly_rate": 30.0,
+        "gross_pay": 1050.0
     }
 ]
