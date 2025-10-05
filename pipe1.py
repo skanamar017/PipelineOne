@@ -2,8 +2,8 @@ import csv
 import json
 
 # Define the input CSV file and output JSON file
-csv_file = 'timecard_data.csv'
-json_file = 'timecard_data.json'
+csv_file = '/Users/saisarathkanamarlapudi/Documents/ZipCodeWilmington/PipelineOne/timecard_data.csv'
+json_file = '/Users/saisarathkanamarlapudi/Documents/ZipCodeWilmington/PipelineOne/timecard_data.json'
 
 # Read the CSV file and calculate the total gross pay
 timecard_data = []
